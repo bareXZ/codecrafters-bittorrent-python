@@ -1,0 +1,15 @@
+
+print(decoded_str_elements[i])
+            print(type(decoded_str_elements[i]))
+            if decoded_str_elements[i].isdigit() :
+
+output of this is 
+5 
+<class 'str'>
+'5'
+1
+[53]
+True
+
+but its not going inside the condition you know why?
+if decoded_str_elements[i].isdigit() :
